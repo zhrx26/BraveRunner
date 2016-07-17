@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Player_Get.cs">
+    <Files>
+      <File FileName="Assets\Script\Player_Get.cs" Line="36" Column="5" />
+      <File FileName="Assets\Script\Game_Manager.cs" Line="149" Column="38" />
+      <File FileName="Assets\Script\Box_Loop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Camera_Zoom.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Player_Animation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Player_Move.cs" Line="19" Column="2" />
+      <File FileName="Assets\Script\Player_Sound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Scroll_Mapping.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Start_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UpDown.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
